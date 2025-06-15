@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains all case study solved using machine learning concepts.
+This repository contains case studies solved using machine learning concepts.
